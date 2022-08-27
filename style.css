@@ -1,0 +1,8 @@
+body{
+    background: #cccccc;
+}
+
+#main-wrapper{
+    width: 960px;
+    margin: 100px auto 0 auto;
+}
